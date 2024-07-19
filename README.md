@@ -45,6 +45,10 @@ The dataset files (`dataset1.txt`, `dataset2.txt`, `dataset3.txt`) have the same
 50 9
 20 3
 
+10  
+11
+
+
 - The first line `50` is the maximum bag capacity.
 - Each subsequent line contains two numbers: the value and weight of an item.
 
