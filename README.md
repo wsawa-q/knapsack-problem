@@ -32,8 +32,8 @@ To run the program, follow these steps:
 ### Dataset File Structure
 The dataset files (`dataset1.txt`, `dataset2.txt`, `dataset3.txt`) have the same structure. The first line specifies the maximum bag capacity, followed by lines with pairs of numbers representing the value and weight of each item.
 
-**Example:**
-50
+**Example:**  
+50  
 60 10  
 100 20  
 120 30  
